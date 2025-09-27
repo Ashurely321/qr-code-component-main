@@ -96,8 +96,8 @@ I also want to learn more about responsive design and how to make layouts work w
 
 ## Author
 
-- GitHub – [@Ashurely321](https://github.com/Ashurely321)
-- Frontend Mentor – [@Ashurely321](https://www.frontendmentor.io/profile/Ashurely321)
+- GitHub – [Ashurely321](https://github.com/Ashurely321)
+- Frontend Mentor – [Ashurely321](https://www.frontendmentor.io/profile/Ashurely321)
 
 ## Acknowledgments
 
