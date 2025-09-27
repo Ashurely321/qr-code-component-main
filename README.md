@@ -69,8 +69,8 @@ My first attempt didn’t work — the image didn’t show up in preview. I real
 ```css
 .card {
   background-color: var(--white);
-  padding: 1.5rem;
-  border-radius: 1rem;
+  padding: 24px;
+  border-radius: 16px;
   display: flex;
   flex-direction: column;
   align-items: center;
