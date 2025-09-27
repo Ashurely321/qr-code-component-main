@@ -25,8 +25,8 @@ This is my solution to the QR code component challenge from Frontend Mentor. The
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View my solution live](https://www.frontendmentor.io/solutions/responsive-qr-code-card-with-flexbox-R_E_ZJUbLj)
+- Solution URL: [View my solution here](https://ashurely321.github.io/qr-code-component-main/)
 
 ## My process
 
