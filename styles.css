@@ -1,0 +1,59 @@
+/* Apply global box-sizing and remove default padding/margin from all elements */
+*, *::before, *::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Set base font, background color, and center content vertically and horizontally */
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+
+/* Style the main card container */
+.card {
+  background-color: white;
+  max-width: 320px;
+  padding: 16px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Style the QR code image */
+.card-img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  display: block;
+}
+
+/* Style the heading text */
+.card-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 12px;
+}
+
+/* Style the paragraph text */
+.card-text {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  margin-bottom: 16px;
+}
+
+/* Style the footer attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 16px;
+}
